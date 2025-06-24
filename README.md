@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>Hi 👋, I'm Vignesh S</h1>
-  <h3>Flutter Enthusiast | Venturing into AI & Machine Learning</h3>
+  <h3>AI & Deep Learning Practitioner | Passionate About Building Intelligent Systems with Practical Impact</h3>
 </div>
 
 ---
@@ -9,9 +9,6 @@
 <div align="center">
   <a href="https://linkedin.com/in/vignesh-s-9b86a7243" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/your-twitter-URL" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.leetcode.com/vigneshvaran0101" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
@@ -27,7 +24,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vigneshs010&theme=radical&no-frame=true&no-bg=true" alt="GitHub Profile Trophies" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=vigneshs010&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Vignesh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshs010&theme=radical&hide_border=true" alt="Vignesh's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshs010&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
@@ -35,8 +31,9 @@
 
 ### 🌱 About Me
 
-- 🌱 I’m currently diving deep into **Machine Learning, Artificial Intelligence, Database, and SQL**.
-- 💬 Feel free to ask me anything about **Flutter** and **Python**!
+
+- 🌱 My expertise includes **Artificial Intelligence**, and I'm currently diving deep into **Machine Learning, Database, and SQL**.
+- 💬 Feel free to ask me anything about **AI**, **Flutter** and **Python**!
 - 📫 You can reach me at **vigneshvaran0101@gmail.com**
 
 ---
