@@ -28,12 +28,6 @@ researcher = {
 }
 ```
 
----
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/vigneshvaran0101%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshvaran0101@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-s-9b86a7243)
 
 <br/>
 
