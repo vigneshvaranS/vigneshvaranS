@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Vignesh%20Selvaraj&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=60&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Vignesh%20Selvaraj&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Project%20Associate%20%40%20AI4Bharat%2C%20IIT%20Madras%20%7C%20Aspiring%20AI%20Researcher&descAlignY=60&descSize=14&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Multilingual+OCR+pipelines+for+educational+documents;Transformer+architectures+and+attention+mechanisms;Large+Language+Models" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Large+Language+Models;Transformer+architectures+and+attention+mechanisms;Computer+Vision+%7C+Document+AI+%7C+Deep+Learning" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,14 +21,14 @@
 
 ```python
 researcher = {
-    "name"     : "Vignesh Selvaraj",
-    "location" : "Chennai, India",
-    "focus"    : ["Large Language Models"],
+    "name"       : "Vignesh Selvaraj",
+    "location"   : "Chennai, India",
+    "affiliation": ["AI4Bharat, IIT Madras", "Minor in AI — IIT Ropar"],
+    "focus"      : ["Large Language Models", "Computer Vision", "Document AI"],
 }
 ```
 
 ---
-
 
 ## Tech Stack
 
@@ -77,9 +77,34 @@ researcher = {
 
 ---
 
+## GitHub Stats
 
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=vigneshs010&theme=tokyonight&no-frame=true&column=6&margin-w=8" />
+
+<br/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vigneshs010&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshs010&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshs010&theme=tokyonight&background=0d1117&border=7c3aed&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshs010&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&border_color=7c3aed" />
+
+</div>
+
+---
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/vigneshvaran0101%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshvaran0101@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-s-9b86a7243)
