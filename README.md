@@ -32,28 +32,6 @@ researcher = {
 
 ---
 
-## Research Interests
-
-<div align="center">
-
-| Computer Vision | Document AI | Deep Learning | Multilingual NLP |
-|:---:|:---:|:---:|:---:|
-| Layout Analysis | OCR Pipelines | Transformer Architectures | Indian Language Models |
-| Object Detection | Table Extraction | Attention Mechanisms | Script Recognition |
-| Image Segmentation | Form Understanding | Sequence Modeling | Cross-lingual Transfer |
-
-</div>
-
----
-
-## Current Projects
-
-- **Gemini Batch OCR Pipeline** — Multipage document understanding across 7+ Indian languages in educational textbooks
-- **Annotation Review Tool** — Streamlit-based viewer with bounding box overlays, per-user progress tracking, and issue reporting
-- **Dataset Statistics Engine** — Label distribution analysis by joining JSONL model outputs with image metadata
-- **Document Layout Analysis** — Classifying text regions, tables, and figures in educational PDFs
-
----
 
 ## Tech Stack
 
