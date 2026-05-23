@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Vignesh_Selvaraj%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=60&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Vignesh%20Selvaraj&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Multilingual+OCR+pipelines+for+educational+documents;Transformer+architectures+and+attention+mechanisms;Document+AI+%7C+Computer+Vision+%7C+Deep+Learning" alt="Typing SVG" />
