@@ -15,24 +15,7 @@
 
 </div>
 
----
-
-## About Me
-
-```python
-researcher = {
-    "name"       : "Vignesh Selvaraj",
-    "location"   : "Chennai, India",
-    "affiliation": ["AI4Bharat, IIT Madras", "Minor in AI — IIT Ropar"],
-    "focus"      : ["Large Language Models", "Computer Vision", "Document AI"],
-}
-```
 
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=vigneshs010&color=7c3aed&style=flat-square&label=Profile+Views" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
 </div>
