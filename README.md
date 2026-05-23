@@ -127,15 +127,6 @@ researcher = {
 
 </div>
 
----
-
-## Papers I Reference Often
-
-- **Attention Is All You Need** — Vaswani et al. (2017)
-- **An Image is Worth 16x16 Words** — Dosovitskiy et al.
-- **Donut: Document Understanding Transformer** — Kim et al.
-- **LayoutLMv3: Pre-training for Document AI** — Microsoft Research
-- **Gemini: A Family of Highly Capable Multimodal Models** — Google DeepMind
 
 ---
 
